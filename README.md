@@ -3,30 +3,16 @@
 
 ## Índice
 
-1. [Descripción del Proyecto](#descripción-del-proyecto)
-2. [Estado del Proyecto](#estado-del-proyecto)
-3. [Demostración de funciones y aplicaciones](#demostración-de-funciones-y-aplicaciones)
-4. [Acceso al Proyecto](#acceso-al-proyecto)
-
-
+1. [Encriptar](#Encriptar-del-proyecto)
+2. [Desencriptar](#Desencriptar-del-proyecto)
+3. [Copiar](#Copiar)
 
 ## Descripción del Proyecto
 
-Describe aquí de qué trata tu proyecto, los objetivos que tiene, y por qué es importante.
-
+El proyecto consiste en desarrollar un sistema de encriptación y desencriptación que tiene la capacidad de convertir datos de un formato claro y comprensible a uno cifrado, y realizar el proceso inverso para descifrarlos.
 ## Estado del Proyecto
 
 ![Estado del Proyecto](https://img.shields.io/badge/estado-en%20desarrollo-yellow)
-
-## Demostración de funciones y aplicaciones
-
-### Funcionalidad 1
-Describe una funcionalidad importante.
-
-### Funcionalidad 2
-Describe otra funcionalidad clave.
-
-Puedes incluir capturas de pantalla, videos o gifs que muestren cómo funciona el proyecto.
 
 ## Acceso al Proyecto
 
