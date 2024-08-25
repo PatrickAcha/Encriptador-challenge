@@ -84,19 +84,19 @@ btnCopiar.addEventListener("click", function() {
     }
 });
 
-// Selecciona el elemento del tren
+
 const mari = document.querySelector('.mari');
 
-// Función para mover el tren
+
 function moveMari() {
-    // Mueve el tren hacia la derecha
+
     train.style.left = '200px';
 
-    // Espera hasta que la animación termine y luego reinicia la posición
+    
     setTimeout(() => {
         mari.style.left = '0';
-    }, 4000); // Tiempo debe coincidir con la duración de la transición en CSS (4s)
+    }, 4000); 
 }
 
-// Llama a la función repetidamente con un intervalo
+
 setInterval(moveMari, 4100); 
