@@ -432,7 +432,7 @@ main{
         position: relative;
     }
 }
-.train {
+.mari {
     position: relative; 
     transition: left 4s cubic-bezier(1, 1, 1, 1); 
     cursor: pointer;
@@ -442,7 +442,7 @@ main{
     left: 0; 
     }
 
-.train:active {
+.mari:active {
     left: calc(100% - 150px);}
 
 
