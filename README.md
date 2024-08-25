@@ -14,9 +14,3 @@ El proyecto consiste en desarrollar un sistema de encriptaci√≥n y desencriptaci√
 
 ![Estado del Proyecto](https://img.shields.io/badge/estado-en%20desarrollo-yellow)
 
-## Acceso al Proyecto
-
-Para acceder al proyecto, puedes clonarlo usando el siguiente comando:
-
-```bash
-git clone https://github.com/usuario/nombre-del-repo.git
